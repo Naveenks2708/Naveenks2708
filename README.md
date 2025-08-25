@@ -5,10 +5,11 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **AI/ML Projects & Full-Stack Applications**  
-- 🌱 Learning **Cloud Computing, Data Structures & Algorithms, and System Design**  
-- 👯 Open to collaborate on **AI, ML, Web Development, and IoT projects**  
+- 🎯 Actively seeking opportunities as a **Software Engineer / Full-Stack Developer / AI-ML Engineer**  
+- 🌱 Continuously learning **Cloud Computing, Data Structures & Algorithms, and System Design**  
+- 👯 Interested in collaborating on **AI, ML, Web Development, and IoT projects**  
 - ⚡ Passionate about solving **real-world problems with technology + creativity**  
+ 
 
 ---
 
@@ -70,4 +71,5 @@
 ---
 
 ⭐️ From [Naveenks2708](https://github.com/Naveenks2708)  
+
 
