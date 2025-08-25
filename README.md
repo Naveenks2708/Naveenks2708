@@ -44,9 +44,13 @@
 ---
 
 ## 🏆 Certifications  
-- **Python for Data Science** – NPTEL  
+- **Programming in java** – NPTEL
+- **Privacy and Security in Online Social Media** – NPTEL  
 - **Machine Learning Foundations** – Coursera  
-- **Web Development Bootcamp** – Udemy  
+- **Web Development Bootcamp** – Udemy
+- **Excel Automation Using ChatGPT** – Simplilearn
+- **UI/UX And no code** – Skill Dragon
+- **Ethical Hacking Masterclass** – Nikistian Media Private Limited  
 
 ---
 
@@ -59,10 +63,11 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 Email: **your-email@example.com**  
-- 🌐 Portfolio Website *(Coming Soon!)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naveenkumars27)  
+- 📧 Email: **naveeenkumarsankar2003@gmail.com**  
+- 🌐 Portfolio Website 
 
 ---
 
 ⭐️ From [Naveenks2708](https://github.com/Naveenks2708)  
+
